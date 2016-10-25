@@ -1,6 +1,12 @@
 # phonecat-reagent
 
 A [reagent](https://github.com/reagent-project/reagent) application designed to ... well, that part is up to you.
+[Angular Phone Catalog Tutorial Application](https://github.com/angular/angular-phonecat) ported to ClojureScript.
+
+Used Libraries:
+* Reagent as interface between ClojureScript and React
+* cljs-ajax for "Server calls"
+* bidi for clientside routing
 
 ## Development Mode
 
